@@ -112,3 +112,13 @@ background: #158cba;
     padding: 4px;
     border-radius: 3px;
 }
+.card-info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.list-group-set{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
