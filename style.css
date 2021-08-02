@@ -86,7 +86,8 @@ ul li {
     font-size: 17px;
     line-height: 2px;
     font-weight: 500;
-    margin : 25px 0;
+    margin : 25px 15px 20px;
+
 }
 .list-title{
     display: flex;
@@ -121,4 +122,12 @@ background: #158cba;
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+.oninset{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.out{
+    padding: 15px;
 }
